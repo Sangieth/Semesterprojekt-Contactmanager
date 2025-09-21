@@ -1,14 +1,14 @@
 # Semesterprojekt-Contactmanager
-Gruppe
+Gruppe:
 Sangieth Teamleiter
 Adnan
 Jovan
 
-Funktioniert
+Funktioniert: 
 Datenerfassung
 Löschen
 Bearbeiten
 Speichern von Mitarbeiterdaten
 
 
-Wichtig zuerst neu klicken und Formular ausfüllen. 
+- Wichtig zuerst neu klicken und Formular ausfüllen. 
